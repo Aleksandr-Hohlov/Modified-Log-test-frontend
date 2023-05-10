@@ -1,0 +1,6 @@
+.popup__input_type_post{
+  outline: 1px solid rgba(0, 0, 0, 0.2);
+  height: 100px;
+  border-radius: 5px;
+  padding: 5px;
+}

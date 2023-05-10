@@ -1,0 +1,13 @@
+.login{
+  max-width: 358px;
+  width: 100%;
+  margin: 60px auto 112px;
+  padding: 0;
+  position: relative;
+}
+
+@media (max-width: 320px) {
+    .login {
+      max-width: 260px;
+    }
+  }
